@@ -5,7 +5,7 @@
         "Nombre":"AMBROXOL  Jarabe",
        "Modo de administración":"Via oral", 
        "Dosis":"10 ml",
-       "Descripcion" :"Solución ligeramente viscosa, transparente o débilmente opaca, prácticamente incolora o ligeramentecoloreada y con olor a fresa.",
+       "Descripción" :"Solución ligeramente viscosa, transparente o débilmente opaca, prácticamente incolora o ligeramentecoloreada y con olor a fresa.",
        " Para qué sirve":"se utiliza para tratar afecciones agudas y crónicas de las vías respiratorias que requieren disolución y eliminación de la mucosidad.",
        "Contraindicaciones":"Hipersensibilidad. Además para el jarabe, sol. oral y sol. inyectable: niños < 2 años."
        },
@@ -15,7 +15,7 @@
         "Nombre":"ASPIRINA",
        "Modo de administración":"Vía oral. Tomar con las comidas o con leche, no con el estómago vacío.", 
        "Dosis":"1 sobre",
-       "Descripcion" :"color blanco a ligeramente amarillento",
+       "Descripción" :"color blanco a ligeramente amarillento",
        "Para qué sirve":"Este medicamento está indicado en el alivio sintomático de los dolores ocasionales leves o moderados",
        "Contraindicaciones":"úlcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto."
        },
@@ -25,7 +25,7 @@
         "Nombre":"BAQSIMI",
        "Modo de administración":"fosa nasal", 
        "Dosis":"3 mg de glucagón.",
-       "Descripcion" :"Polvo de color blanco o casi blanco.",
+       "Descripción" :"Polvo de color blanco o casi blanco.",
        "Para qué sirve":"tratar niveles muy bajos de azúcar en la sangre",
        "Contraindicaciones":"Hipersensibilidad al principio activo o a alguno de los excipientes"
        },
@@ -35,7 +35,7 @@
         "Nombre":"EBERNET.",
        "Modo de administración":"Aplicar con la punta de los dedos", 
        "Dosis":" dos veces al día",
-       "Descripcion" :"pomada color blanca",
+       "Descripción" :"pomada color blanca",
        "Para qué sirve":"infecciones causadas por hongos: tales como Tinea corporis (tiña del cuerpo), Tinea cruris(tiña inguinal) y Tinea pedis (tiña del pie).",
        "Contraindicaciones":"Hipersensibilidad a eberconazol y a otros antifúngicos imidazólicos."
        },
@@ -46,7 +46,7 @@
         "Nombre":"BEDOYECTA TRI SOLUCIÓN INYECTABLE",
        "Modo de administración":"vía intramuscular", 
        "Dosis":"una a dos jeringas por semana",
-       "Descripcion" :"Cajas con 3 jeringas listas para su uso",
+       "Descripción" :"Cajas con 3 jeringas listas para su uso",
        "Para qué sirve":"mejora el estado del sistema inmunológico, combate el estrés biológico y mejora la vitalidad",
        "Contraindicaciones":"Hipersensibilidad a vit. B1 , vit. B6 , vit. B12 , cobalaminas y Co; concomitancia con levodopa"
        },
@@ -57,7 +57,7 @@
         "Nombre":"OMEPRAZOL",
        "Modo de administración":"", 
        "Dosis":"1 o 2 veces al día",
-       "Descripcion" :" pertenece al grupo de medicamentos llamados analgésicos y antipiréticos.",
+       "Descripción" :" pertenece al grupo de medicamentos llamados analgésicos y antipiréticos.",
        "Para qué sirve":"aliviar el dolor y el malestar causado por las úlceras y la acidez estomacal asociadas con la enfermedad de reflujo gastroesofágico",
        "Contraindicaciones":"Hipersensibilidad a omeprazol, benzimidazoles. Concomitancia con nelfinavir."
        },
@@ -67,7 +67,7 @@
         "Nombre":"PARACETAMOL",
        "Modo de administración":"Vía oral", 
        "Dosis":"1 comprimido",
-       "Descripcion" :"fármaco de clasificación analgésico",
+       "Descripción" :"fármaco de clasificación analgésico",
        "Para qué sirve":"Analgésico aliviar la fiebre y el dolor.",
        "Contraindicaciones":"hepatotoxicidad, toxicidad renal, alteraciones en la fórmula sanguínea, hipoglucemia y dermatitis alérgica."
        },
@@ -78,7 +78,7 @@
         "Nombre":"LORATADINA",
        "Modo de administración":"Vía oral", 
        "Dosis":"1 comprimido al día",
-       "Descripcion" :"La ranura del comprimido sirve para fraccionar y facilitar la deglución pero no para dividir en dosis iguales.",
+       "Descripción" :"La ranura del comprimido sirve para fraccionar y facilitar la deglución pero no para dividir en dosis iguales.",
        "Para qué sirve":" aliviar en forma temporal los síntomas de la fiebre del heno (alergia al polen, polvo u otras sustancias en el aire) y otras alergia",
        "Contraindicaciones":"Hipersensibilidad."
        },
@@ -88,7 +88,7 @@
         "Nombre":"AMOXICILINA",
        "Modo de administración":"vía oral", 
        "Dosis":"40 mg a 90 mg",
-       "Descripcion" :"pertenece a un grupo de medicamentos denominados “penicilinas",
+       "Descripción" :"pertenece a un grupo de medicamentos denominados “penicilinas",
        "Para qué sirve":"tratar infecciones causadas por bacterias en distintas partes del cuerpo.",
        "Contraindicaciones":"Hipersensibilidad a ß-lactámicos; antecedentes de una reacción de hipersensibilidad inmediata grave"
        },
@@ -99,7 +99,7 @@
         "Nombre":"PARACETAMOL",
        "Modo de administración":"Vía oral", 
        "Dosis":"1 o 2 comprimidos por día",
-       "Descripcion" :"Analgésico y antipirético, inhibidor de la síntesis de prostaglandinas periférica y central por acción sobre la ciclooxigenasa",
+       "Descripción" :"Analgésico y antipirético, inhibidor de la síntesis de prostaglandinas periférica y central por acción sobre la ciclooxigenasa",
        "Para qué sirve":" tratamiento de los síntomas del dolor leve a moderado y la fiebre.",
        "Contraindicaciones":"Hipersensibilidad"
        }
